@@ -184,3 +184,31 @@ main {
     text-align: center;
     margin-top: 130px;
 }
+
+.resume-container {
+    display: flex;
+}
+
+.resume-title {
+    color: #474747;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.item-title {
+    color: #474747;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.item-sbtitle {
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.item-descrip {
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
