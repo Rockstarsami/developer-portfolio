@@ -187,6 +187,7 @@ main {
 
 .resume-container {
     display: flex;
+    gap: 25px;
 }
 
 .resume-title {
