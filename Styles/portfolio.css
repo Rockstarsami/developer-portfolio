@@ -200,6 +200,8 @@ main {
     color: #474747;
     font-weight: 700;
     font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
 
 .item-sbtitle {
@@ -212,4 +214,6 @@ main {
     font-weight: 400;
     font-size: 16px;
     color: #757575;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
