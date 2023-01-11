@@ -217,3 +217,10 @@ main {
     margin-top: 20px;
     margin-bottom: 30px;
 }
+
+/* Resume Button styles */
+
+.resume-btn {
+    text-align: center;
+    margin-top: 50px;
+}
